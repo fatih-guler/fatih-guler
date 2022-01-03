@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Fatih 👋
+
+### I am a software developer. 
+
+### I work on a company that develops GIS applications. 
+
+### I mainly develop apps on NET Core, Postgresql, and Angular. 
 
 <!--
 **fatih-guler/fatih-guler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
