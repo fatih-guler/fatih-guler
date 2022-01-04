@@ -5,15 +5,12 @@
 ### I work on GIS Web Applications. Applications developed by using NET Core MVC, PostgreSQL, EF Core and Geoserver basically ⚡
 
 ### I am currently learning Angular framework and Express API 🌱
-
-### You can reache me out via email or linkedin 📫
-
-### https://www.linkedin.com/in/fatih-g%C3%BCler-6b21688b/
-
-![image](https://user-images.githubusercontent.com/23283714/148122582-a4e14bf6-4b47-4c90-b3e4-9e499d61f56f.png)
+ 
 
 <!--
 **fatih-guler/fatih-guler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### You can reache me out via email or linkedin 📫
 
 Here are some ideas to get you started:
 
