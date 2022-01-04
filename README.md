@@ -8,15 +8,12 @@
 
 ### You can reache me out via email or linkedin 📫
 
-### I am leaving my communication information below
+### https://www.linkedin.com/in/fatih-g%C3%BCler-6b21688b/
 
-### 
-
-![image](https://user-images.githubusercontent.com/23283714/148122375-2894af65-382c-4026-9309-83a05270e4ac.png)
+![image](https://user-images.githubusercontent.com/23283714/148122582-a4e14bf6-4b47-4c90-b3e4-9e499d61f56f.png)
 
 <!--
 **fatih-guler/fatih-guler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://user-images.githubusercontent.com/23283714/148122326-af5e55c8-24a4-4085-942e-34691f65e9ce.png)
 
 Here are some ideas to get you started:
 
