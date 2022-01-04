@@ -1,11 +1,9 @@
-### Hi, I'm Fatih ✨
+### Hi, I'm Fatih 👋
 
-### I am a software developer. 
+ I am a software developer. 
 
-###⚡ I work on GIS Web Applications. Applications developed by using NET Core MVC, PostgreSQL, EF Core and Geoserver basically
-
-###🌱 I am currently learning Angular framework and Express API
-
+### I work on GIS Web Applications. Applications developed by using NET Core MVC, PostgreSQL, EF Core and Geoserver basically ⚡
+🌱 ### I am currently learning Angular framework and Express API
 <!--
 **fatih-guler/fatih-guler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
