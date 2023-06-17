@@ -1,8 +1,8 @@
-### Hi, I'm Fatih 👋
+⚡ Hi, I'm Fatih 👋
 
-### I am a software developer about 3 years experience 
+⚡ I am a software developer about 3 years experience 
 
-### I work on GIS Web Applications. Applications developed by using NET Core MVC, PostgreSQL, EF Core and Geoserver basically ⚡
+⚡ I work on GIS Web Applications. Applications developed by using NET Core MVC, PostgreSQL, EF Core and Geoserver basically ⚡
 
  
 
