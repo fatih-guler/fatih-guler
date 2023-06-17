@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h4 align="center">I'm a software engineer who is passionate about learning and coding. Some technologies I enjoy working with include NET Core, SQL and Angular.</h4>
+<h4 align="center">I'm a software engineer who is working actively since 2019 and passionate about learning and coding. Some technologies I enjoy working with include NET Core, SQL and Angular.</h4>
 
 - 🌱 I’m currently learning **Angular**
 
