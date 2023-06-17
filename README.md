@@ -4,7 +4,6 @@
 
 ### I work on GIS Web Applications. Applications developed by using NET Core MVC, PostgreSQL, EF Core and Geoserver basically ⚡
 
-### I am currently learning Angular framework and Express API 🌱
  
 
 <!--
